@@ -1,2 +1,2 @@
 # JAVA
-Robust progranming
+Robust programming language
